@@ -1,4 +1,4 @@
-const Color = require("../util/color");
+import Color from "./color";
 
 /**
  * @fileoverview

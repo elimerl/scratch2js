@@ -1,6 +1,8 @@
 {
     "name": "@scratch2js/util",
     "version": "1.0.0",
+    "main": "lib/cast.js",
+    "types": "lib/cast.d.ts",
     "scripts": {
         "build": "tsc"
     },
