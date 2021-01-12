@@ -1,6 +1,6 @@
 # scratch2js
 
-A [Scratch][https://scratch.mit.edu] to Javascript compiler.
+A [Scratch](https://scratch.mit.edu) to Javascript compiler.
 
 ## Usage
 
