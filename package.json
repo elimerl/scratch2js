@@ -1,0 +1,8 @@
+{
+  "name": "scratch2js",
+  "version": "0.0.1",
+  "description": "A scratch to JS transpiler.",
+  "main": "index.js",
+  "author": "elimerl",
+  "license": "MIT"
+}
