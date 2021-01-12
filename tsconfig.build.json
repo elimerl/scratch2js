@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "module": "commonjs",
-    "outDir": "lib"
+    "outDir": "lib",
+    "target": "es5"
   },
   "exclude": ["node_modules"],
   "include": ["packages/*/src"]
