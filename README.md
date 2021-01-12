@@ -16,3 +16,9 @@ fetch("https://projects.scratch.mit.edu/")
 ```
 
 ## Development
+
+```sh
+git clone https://github.com/elimerl/scratch2js
+cd scratch2js
+yarn install
+```

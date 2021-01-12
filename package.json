@@ -6,14 +6,11 @@
   "author": "elimerl",
   "license": "MIT",
   "private": true,
-  "workspaces": [
-    "parser",
-    "compiler"
-  ],
   "dependencies": {
     "typescript": "^4.1.3"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
-  }
+  },
+  "scripts": {}
 }

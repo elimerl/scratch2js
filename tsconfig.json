@@ -1,8 +1,7 @@
 {
+  "extends": "./tsconfig.build.json",
   "compilerOptions": {
-    "module": "commonjs",
-    "outDir": "lib"
-  },
-  "exclude": ["node_modules"],
-  "include": ["packages/**/src"]
+    "baseUrl": ".",
+    "paths": { "@scratch2js/*": ["packages/*/src"] }
+  }
 }
