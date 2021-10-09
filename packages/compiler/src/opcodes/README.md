@@ -13,9 +13,4 @@ function handle(block: SB3Block, target: SB3Target): Node[] {
   return [];
 }
 export default handle;
-
-function handle(block: SB3Block, target: SB3Target) {
-  return [];
-}
-export default handle;
 ```
