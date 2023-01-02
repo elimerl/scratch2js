@@ -16,6 +16,4 @@ A tool that is very useful is [astexplorer.net](https://astexplorer.net/#/gist/f
 
 ## Notes and Credits
 
-Used the `util` module from [LLK/scratch-vm](https://github.com/LLK/scratch-vm). That code is under the [BSD-3](https://github.com/LLK/scratch-vm/blob/develop/LICENSE) license. The [packages/util](./packages/util) folder contains the source of that, and is under the BSD-3. (Please tell me if I'm doing this wrong, I am not well-versed in copyright law)
-
-Scratch does not endorse this project in any way, and it is unofficial.
+Uses the `util` module from [LLK/scratch-vm](https://github.com/LLK/scratch-vm).
